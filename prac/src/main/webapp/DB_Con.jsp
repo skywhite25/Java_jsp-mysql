@@ -12,9 +12,9 @@
 	<%
 		// 연결
 	Connection con = null;
-	String url = "jdbc:mysql://175.123.253.199:3306/test";
+	String url = "jdbc:mysql://127.0.0.1:3306/test";
 	String id = "root";
-	String pw = "eldkdlTlxl0101@@";
+	String pw = "a135719";
 	
 	Class.forName("com.mysql.cj.jdbc.Driver");
 	con = DriverManager.getConnection(url, id, pw);

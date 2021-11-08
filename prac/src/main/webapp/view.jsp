@@ -11,9 +11,9 @@ Connection con = null;
 PreparedStatement pstmt = null;
 ResultSet rs = null;
 
-String url = "jdbc:mysql://175.123.253.199:3306/test";
+String url = "jdbc:mysql://127.0.0.1:3306/test";
 String id = "root";
-String pw = "eldkdlTlxl0101@@";
+String pw = "a135719";
 
  %>
 <!DOCTYPE html>
