@@ -26,7 +26,7 @@
 		stmt.executeUpdate(sql);
 		out.print("성공");
 		%>
-		<br><a href = "http://127.0.0.1:8090/view.jsp">리스트</a>
+		<br><a href = "http://localhost:8090/view.jsp">리스트</a>
 		<%
 	} catch(SQLException e){
 		out.print("실패");		
