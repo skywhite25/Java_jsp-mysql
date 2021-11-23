@@ -1,1 +1,1 @@
-# Jsp-Mysql
+# Jsp-Mysql 연동
